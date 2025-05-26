@@ -1,2 +1,2 @@
 # Course-FreeCodeCamp
-Hallo!. Saya adalah seorang Newbie yang akan menyelesaikan kursus fullstack dev di freecodecamp
+Halo! 👋 Saya adalah seorang Fullstack Developer yang bersemangat, baru saja menyelesaikan kursus intensif yang mendalam dalam pengembangan web. Saya memiliki pemahaman kuat dan pengalaman praktis dalam membangun aplikasi yang responsif dan skalabel, mulai dari antarmuka pengguna yang menarik dengan **React**, hingga *server-side logic* yang efisien menggunakan **Node.js** dan **Express.js**, serta pengelolaan data dengan **MongoDB** atau **SQL**. Siap untuk terjun ke dunia nyata dan berkolaborasi dalam tim yang dinamis!
